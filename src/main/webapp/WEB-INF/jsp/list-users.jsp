@@ -1,10 +1,10 @@
 <%@ include file="common/header.jspf" %>
 <%@ include file="common/navigation.jspf" %>
-	  <h2 class="text-center">List Learner</h2>
+	  <h2 class="text-center">List Learners</h2>
  
 	<div class="container">
 		<div>
-			<a type="button" class="btn btn-primary pull-right" href="/add-user">Create User</a>
+			<a type="button" class="btn btn-primary pull-right" href="/add-user">Create Learner</a>
 		</div>	 
 		<table class="table table-hover">
 			<thead>
